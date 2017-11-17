@@ -23,3 +23,4 @@ Cube is an application server framework to develop server applications in golang
 
 [report-card-img]: https://goreportcard.com/badge/github.com/anuvu/cube
 [report-card]: https://goreportcard.com/report/github.com/anuvu/cube
+
